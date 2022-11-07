@@ -1,0 +1,15 @@
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/bin/Debug/net6.0/hmwork2.2
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/bin/Debug/net6.0/hmwork2.2.deps.json
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/bin/Debug/net6.0/hmwork2.2.runtimeconfig.json
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/bin/Debug/net6.0/hmwork2.2.dll
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/bin/Debug/net6.0/ref/hmwork2.2.dll
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/bin/Debug/net6.0/hmwork2.2.pdb
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.csproj.AssemblyReference.cache
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.AssemblyInfoInputs.cache
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.AssemblyInfo.cs
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.csproj.CoreCompileInputs.cache
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.dll
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/ref/hmwork2.2.dll
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.pdb
+/Users/sailats/Documents/WASP/VScode/test/test2.2/hmwork2.2/obj/Debug/net6.0/hmwork2.2.genruntimeconfig.cache

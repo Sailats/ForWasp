@@ -1,0 +1,15 @@
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/bin/Debug/net6.0/hmwork3
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/bin/Debug/net6.0/hmwork3.deps.json
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/bin/Debug/net6.0/hmwork3.runtimeconfig.json
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/bin/Debug/net6.0/hmwork3.dll
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/bin/Debug/net6.0/ref/hmwork3.dll
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/bin/Debug/net6.0/hmwork3.pdb
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.csproj.AssemblyReference.cache
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.AssemblyInfoInputs.cache
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.AssemblyInfo.cs
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.csproj.CoreCompileInputs.cache
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.dll
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/ref/hmwork3.dll
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.pdb
+/Users/sailats/Documents/WASP/VScode/test/test3/hmwork3/obj/Debug/net6.0/hmwork3.genruntimeconfig.cache
